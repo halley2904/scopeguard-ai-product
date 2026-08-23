@@ -1,4 +1,4 @@
-# ScopeGuard — User Research
+# ScopeGuard - User Research
 
 **Status:** Research not yet completed  
 **Method:** Asynchronous interviews / written responses
