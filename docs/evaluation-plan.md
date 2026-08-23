@@ -1,4 +1,4 @@
-# ScopeGuard — AI Evaluation Plan
+# ScopeGuard - AI Evaluation Plan
 
 **Status:** Evaluation design / prototype stage
 
