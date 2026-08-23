@@ -44,7 +44,7 @@ This document records the reasoning behind the current V1 product choices. It is
 
 **Why:** A narrow input/output boundary makes the first product hypothesis easier to test and the AI evaluation problem easier to define.
 
-## Decision 07 — Do not manufacture validation metrics
+## Decision 07 - Do not manufacture validation metrics
 
 **Decision:** No user-adoption, conversion, or accuracy targets will be presented as achieved until a research and evaluation methodology exists.
 
