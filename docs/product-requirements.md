@@ -1,4 +1,4 @@
-# ScopeGuard V1 — Product Requirements
+# ScopeGuard V1 - Product Requirements
 
 **Status:** Prototype / validation in progress  
 **Product type:** AI-assisted product workflow  
@@ -61,23 +61,23 @@ Cautious decision support for the freelancer. The product should help the user d
 
 ## 6. AI behavior requirements
 
-### R1 — Source grounding
+### R1 - Source grounding
 
 The system must base scope assessments only on information contained in the supplied original agreement and new client request.
 
-### R2 — No unsupported claims
+### R2 - No unsupported claims
 
 The system must not invent requirements, client intent, contractual terms, dates, pricing, or other facts that are absent from the supplied material.
 
-### R3 — Evidence visibility
+### R3 - Evidence visibility
 
 A material assessment should expose the evidence supporting it so the user can inspect the reasoning rather than blindly trust an AI conclusion.
 
-### R4 — Explicit uncertainty
+### R4 - Explicit uncertainty
 
 If the supplied material does not provide enough evidence for a reliable determination, the system should surface the uncertainty rather than force a confident answer.
 
-### R5 — Decision-support boundary
+### R5 - Decision-support boundary
 
 The system should assist with understanding and communicating a potential scope change. It should not independently provide legal conclusions or make commercial decisions on behalf of the freelancer.
 
