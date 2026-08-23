@@ -54,7 +54,7 @@ When the available material does not establish a change clearly, the product sho
 
 ## Current product status
 
-**V1 prototype — user validation in progress.**
+**V1 prototype - user validation in progress.**
 
 This repository does **not** claim completed user research, production readiness, measured business impact, or validated accuracy. The current focus is testing the product hypothesis and refining the workflow through asynchronous conversations with freelancers.
 
@@ -86,7 +86,7 @@ The goal is not to demonstrate a large software codebase. The goal is to show ho
 
 ## Roadmap
 
-### V1 — Prototype
+### V1 - Prototype
 
 - [x] Interactive prototype
 - [x] Define core user problem hypothesis
