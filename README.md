@@ -6,6 +6,10 @@
 
 [**Live V1 Prototype →**](https://scope-guard-7555.taskade.app/)
 
+## Interactive Prototype
+
+[View the ScopeGuard Interactive Prototype](https://www.figma.com/proto/KymZhFuslnpeOCacflz3fJ/ScopeGuard---AI-Product-Prototype?node-id=2-2&t=Q8hfOJwNWstzNKVI-1)
+
 ## Product thesis
 
 Freelancers can recognize that a client request may have moved beyond the original agreement, but it can be difficult to determine exactly **what changed**, **what evidence supports that conclusion**, and **how to respond confidently**.
